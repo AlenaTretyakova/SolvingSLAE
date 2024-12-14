@@ -1,0 +1,113 @@
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 15:25:13
+Исключение: System.ArgumentException
+Сообщение: The equation is entered incorrectly
+The equal sign '=' is not found
+Метод: Boolean Correct(System.String)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.Correct(String text) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 136
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 15:26:36
+Исключение: System.ArgumentException
+Сообщение: The equation is entered incorrectly
+The equal sign '=' is not found
+Метод: Boolean Correct(System.String)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.Correct(String text) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 136
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 15:26:56
+Исключение: System.ArgumentException
+Сообщение: The equation is entered incorrectly
+The equation is not given a general form
+Метод: Boolean Correct(System.String)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.Correct(String text) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 148
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 15:28:47
+Исключение: System.ArgumentException
+Сообщение: Select the equation you want to delete
+Метод: Void ButtonRemove_Click(System.Object, System.EventArgs)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonRemove_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 113
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 15:28:51
+Исключение: System.OverflowException
+Сообщение: Значение было недопустимо малым или недопустимо большим для Int16.
+Метод: Int16 Parse(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+Стек вызовов:
+   в System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int16.Parse(String s)
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonSolve_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 38
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 16:11:36
+Исключение: System.ArgumentException
+Сообщение: Укажите точность вычислений - целое число в пределах от 0 до 10
+Метод: Void ButtonSolve_Click(System.Object, System.EventArgs)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonSolve_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 52
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 16:13:32
+Исключение: System.ArgumentException
+Сообщение: Точность вычислений указана неверно
+Укажите точность в виде целого числа в пределах от 0 до 10
+Метод: Void ButtonSolve_Click(System.Object, System.EventArgs)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonSolve_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 42
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 16:16:03
+Исключение: System.ArgumentException
+Сообщение: Уравнение введено некорректно
+Уравнение не содержит знака равенства
+Метод: Boolean Correct(System.String)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.Correct(String text) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 148
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 16:16:13
+Исключение: System.ArgumentException
+Сообщение: Точность вычислений указана неверно
+Укажите точность вычислений в пределах от 0 до 10
+Метод: Void ButtonSolve_Click(System.Object, System.EventArgs)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonSolve_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 48
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 16:16:20
+Исключение: System.ArgumentException
+Сообщение: Точность вычислений указана неверно
+Укажите точность в виде целого числа в пределах от 0 до 10
+Метод: Void ButtonSolve_Click(System.Object, System.EventArgs)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.ButtonSolve_Click(Object sender, EventArgs e) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 42
+
+----------------------------------------------------------------------
+
+Дата и время: 10.12.2024 17:20:07
+Исключение: System.ArgumentException
+Сообщение: Уравнение введено некорректно
+Уравнение введено не в канонической форме
+Введите уравнение в виде: а1х1 + а2х2 + ... + anxn = b
+где а - вещественные коэффициенты
+х - неизвестное
+b - свободный член
+Метод: Boolean Correct(System.String)
+Стек вызовов:
+   в Решение_СЛАУ_методом_итераций.MainForm.Correct(String text) в C:\Users\Alena.LAPTOP-2PTE0OST\OneDrive\Рабочий стол\SUAI\ТЕХНОЛОГИИ И МЕТОДЫ ПРОГРАММИРОВАНИЯ\Решение СЛАУ методом итераций\Решение СЛАУ методом итераций\MainForm:строка 206
